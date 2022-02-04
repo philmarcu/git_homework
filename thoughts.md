@@ -3,3 +3,5 @@
 -Getting fluent with Git's flow and its function is still challenging, might need to check for an outline of VCS itself
 Shoutout to Zach & Dan for helping me
 @-2-2-2-2@
+-Some new thoughts about the programs: Lots and lots of micro notes
+puts "Welcome to a new pain!"
